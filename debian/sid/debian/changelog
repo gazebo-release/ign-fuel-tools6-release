@@ -1,17 +1,6 @@
-ignition-fuel-tools4 (4.1.0-1~bionic) bionic; urgency=medium
+ignition-fuel-tools5 (4.999.999-1~bionic) bionic; urgency=medium
 
-  * ignition-fuel-tools4 4.1.0-1 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Thu, 27 Feb 2020 17:24:00 -0800
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 16 Jul 2020 18:24:30 +0200
 
-ignition-fuel-tools4 (4.1.0-1~bionic) bionic; urgency=medium
-
-  * ignition-fuel-tools4 4.1.0-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Thu, 27 Feb 2020 17:23:45 -0800
-
-ignition-fuel-tools4 (4.0.0-1~bionic) bionic; urgency=medium
-
-  * ignition-fuel-tools4 4.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 10 Dec 2019 13:52:41 +0100

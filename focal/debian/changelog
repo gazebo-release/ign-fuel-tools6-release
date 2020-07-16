@@ -1,6 +1,6 @@
-ignition-fuel-tools4 (4.1.0-1~focal) focal; urgency=medium
+ignition-fuel-tools5 (4.999.999-1~focal) focal; urgency=medium
 
-  * ignition-fuel-tools4 4.1.0-1 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Thu, 27 Feb 2020 17:24:01 -0800
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 16 Jul 2020 18:24:31 +0200
 
