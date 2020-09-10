@@ -1,3 +1,9 @@
+ignition-fuel-tools5 (5.0.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools5 5.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 10 Sep 2020 11:14:41 -0700
+
 ignition-fuel-tools5 (4.999.999-1~bionic) bionic; urgency=medium
 
   * Stub to be removed after first entry
