@@ -1,12 +1,6 @@
-ignition-fuel-tools5 (5.0.0-1~buster) buster; urgency=medium
+ignition-fuel-tools6 (5.999.999-1~buster) buster; urgency=medium
 
-  * ignition-fuel-tools5 5.0.0-1 release
+  * Stub to be removed after first entry
 
- -- Louise Poubel <louise@openrobotics.org>  Tue, 29 Sep 2020 20:05:01 -0700
-
-ignition-fuel-tools5 (5.0.0~pre1-1~buster) buster; urgency=medium
-
-  * ignition-fuel-tools5 5.0.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Mon, 14 Sep 2020 15:11:40 -0700
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 06 Oct 2020 00:52:56 +0200
 
