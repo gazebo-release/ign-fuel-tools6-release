@@ -1,3 +1,9 @@
+ignition-fuel-tools6 (6.2.0-1~bionic) bionic; urgency=medium
+
+  * ignition-fuel-tools6 6.2.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 28 Mar 2022 08:55:59 -0700
+
 ignition-fuel-tools6 (6.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-fuel-tools6 6.1.0-1 release
